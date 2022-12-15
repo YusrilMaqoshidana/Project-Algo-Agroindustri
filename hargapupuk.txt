@@ -1,0 +1,30 @@
+padi
+
+-------------     SUBSIDI     ------------------
+1. Pupuk SP36 Subsidi 50 kg         - Rp. 120.000
+2. Pupuk Urea Subsidi 50 kg         - Rp. 112.500
+
+
+-----------     NON SUBSIDI     -----------------
+1. Pupuk SP36 Non-Subsidi 50 kg 	- Rp. 250.000
+2. Pupuk Urea Non-Subsidi 50 kg 	- Rp. 248.000
+3. Pupuk KCL Non-Subsidi 50 kg	    - Rp. 850.000
+
+
+jagung
+
+--------------    SUBSIDI     -------------------
+1. Pupuk SP36 Subsidi 50 kg         - Rp. 120.000
+2. Pupuk Urea Subsidi 50 kg         - Rp. 112.500
+3. Pupuk ZA Subsidi 50 kg           - Rp. 285.000
+
+
+-----------     NON SUBSIDI     -----------------    
+1. Pupuk SP36 Non-Subsidi 50 kg	    - Rp. 250.000
+2. Pupuk Urea Non-Subsidi 50 kg 	- Rp. 248.000
+3. Pupuk ZA Non-Subsidi 50 kg	    - Rp. 300.000
+4. Pupuk Furadan Non-Subsidi 50 kg  - Rp. 175.000
+5. Pupuk Phonska Non-Subsidi 50 kg	- Rp. 250.000
+
+Data diambil pada:
+tanggal 14 September 2022
